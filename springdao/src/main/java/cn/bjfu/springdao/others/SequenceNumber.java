@@ -50,7 +50,7 @@ public class SequenceNumber {
 		public TestClient(SequenceNumber sn) {
 			this.sn = sn;
 		}
-		
+		// It is a test
 		public void run() {
 			for (int i=0; i<3; i++) {
 				System.out.println("thread[" + Thread.currentThread().getName() + 
