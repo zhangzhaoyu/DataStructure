@@ -29,7 +29,6 @@ public class PrintSqrt {
 	
 	public static void main(String[] args) {
 		printSqrt(1000);
-
 		printSqrt(-2);
 	}
 	
